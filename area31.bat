@@ -125,3 +125,5 @@ echo Reloade DarkServer-14.34.23.89.0
 echo Fehler gefunden !
 
 echo Hinweis: Area31 ist ein Prank Projekt von TxtCloudDE . Schönen Tag ncoh und fall nicht aus so was mehr rein ;D
+
+start ddos.txt
